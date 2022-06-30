@@ -7,7 +7,6 @@ Desenvolvimento de Softwares para Internet - Fatec (Trancado) <br>
 Cursos técnico na área de técnico em informática com enfase em desenvolvimento de sistemas e Administração <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&theme=dark"/>
 </div>
 
