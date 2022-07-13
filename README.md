@@ -12,7 +12,7 @@ Curso técnico em Administração (ETEC) <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&theme=dark"/>
 </div>
 
-### Technologies and Tools
+### Tecnologia e Ferramentas mais utilizadas
 <div align="center">
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
