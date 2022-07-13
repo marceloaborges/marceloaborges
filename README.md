@@ -1,11 +1,12 @@
 # Olá
 Marcelo Borges aqui... <br/>
 Analista e Desenvolvedor de Sistemas <br/>
+Empreendedor na área de Softwares, Suporte e Help Desk <br/>
 Atualmente trabalhando como <b>Desenvolvedor e Gerente de Projetos</b> Fullstack Laravel com Vuejs, Bootstrap, Mysql, AdminLte, Métodologias Ágeis <br/>
 Formado em Analise e Desenvolvimento de Sistemas - Fatec <br/>
 Desenvolvimento de Softwares para Internet - Fatec (Trancado) <br/>
-Cursos técnico em informática com enfase em desenvolvimento de sistemas (ETEC) <br/>
-Curso técnico em Administração (ETEC) <br/>
+Cursos técnico em informática com enfase em desenvolvimento de sistemas - ETEC <br/>
+Curso técnico em Administração - ETEC <br/>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&theme=dark"/>
