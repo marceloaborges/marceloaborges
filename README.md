@@ -9,8 +9,8 @@ Cursos técnico em informática com enfase em desenvolvimento de sistemas - ETEC
 Curso técnico em Administração - ETEC <br/>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&theme=dark" />
 </div>
 
 ### Tecnologia e Ferramentas mais utilizadas
