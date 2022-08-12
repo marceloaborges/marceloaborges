@@ -8,9 +8,9 @@ Desenvolvimento de Softwares para Internet - Fatec (Trancado) <br/>
 Cursos técnico em informática com enfase em desenvolvimento de sistemas - ETEC <br/>
 Curso técnico em Administração - ETEC <br/>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&theme=dark" />
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img height="180em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ### Tecnologia e Ferramentas mais utilizadas
