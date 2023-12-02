@@ -10,8 +10,8 @@ Cursos técnico em informática com enfase em desenvolvimento de sistemas - ETEC
 Curso técnico em Administração - ETEC <br/>
 
 <div> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=marceloaborges&show_icons=true&theme=transparent" /> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaborges&layout=compact&theme=transparent" />
 </div>
 
 ### Tecnologia e Ferramentas mais utilizadas
@@ -27,6 +27,5 @@ Curso técnico em Administração - ETEC <br/>
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-  
+  <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />  
 </div>
